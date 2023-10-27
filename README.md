@@ -6,4 +6,4 @@
 <p>You will be creating a PHP application that accesses the deckofcardsapi.com via guzzlehttp.</p>
 
 <p>Results:</p>
-<p><img src="Card.png></p>
+<p><img src="Cards.png></p>
